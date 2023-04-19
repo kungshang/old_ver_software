@@ -1,0 +1,10 @@
+Product Name: MediaOne Plus 2.0 PhotoImpact
+
+Platform: Windows XP (Pro and Home), Vista
+Language: _CT 
+Media No: CD 1
+MF No: 1
+Build No:  20070823_08 
+
+Source ID: 407359 
+Date Mastered: 8/27/2007 
